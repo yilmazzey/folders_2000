@@ -28,10 +28,6 @@ var/
 *.pdf
 
 # Directories with data (optional - remove if you want to include these)
-eacl_1500+/
-emnlp_500/
-combined_2000/
-divided_data_4folders/
 
 # OS specific files
 .DS_Store
