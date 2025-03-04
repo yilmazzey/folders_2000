@@ -1,0 +1,43 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PDF files (optional - remove this if you want to include PDFs in the repo)
+*.pdf
+
+# Directories with data (optional - remove if you want to include these)
+eacl_1500+/
+emnlp_500/
+combined_2000/
+divided_data_4folders/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
